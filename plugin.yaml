@@ -1,0 +1,10 @@
+name: adguard-home
+version: 1.0.0
+description: >
+  Control a local AdGuard Home instance from Hermes. Manage protection,
+  filtering lists, custom rules, clients, DNS rewrites, query logs,
+  statistics, blocked services, and access control via the AdGuard Home REST API.
+author: hermes-adguard-home-plugin
+provides:
+  tools: true
+  hooks: false
