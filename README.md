@@ -6,10 +6,15 @@ A [Hermes Agent](https://github.com/NousResearch/hermes-agent) plugin to control
 
 ```bash
 cd ~/.hermes/plugins
-git clone https://github.com/your-org/hermes-adguard-home-plugin adguard-home
+git clone https://github.com/anibalardid/hermes-plugin-adguard-home adguard-home
 ```
 
 Restart Hermes — the plugin loads automatically. Verify with `/plugins`.
+
+## Validate (enable or disable)
+```bash
+hermes plugins list
+```
 
 ## Prerequisites
 
