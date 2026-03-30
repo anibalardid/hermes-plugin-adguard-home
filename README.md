@@ -52,6 +52,9 @@ Download from the [releases page](https://github.com/AdguardTeam/AdGuardHome/rel
 
 After installing, complete the initial setup at `http://127.0.0.1:3000` in your browser.
 
+**REMEMBER:** You should complete installation via web, if not, adguard will never works.
+
+
 ## Configuration
 
 The plugin connects to AdGuard Home via its REST API using environment variables.
